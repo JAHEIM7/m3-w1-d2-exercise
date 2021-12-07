@@ -1,1 +1,1 @@
-# m3-w1-d2-exercise
+m3-wk1-d2-demo
